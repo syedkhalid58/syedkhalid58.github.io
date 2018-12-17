@@ -1,0 +1,74 @@
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{
+
+  margin:0;
+}
+.kimg{
+  border-radius: 70%;
+height: 300px;
+width: 300px;
+border-style:double;
+border-color:black;
+border-width: 10px;
+
+}
+
+.light-grey{background-image:repeating-linear-gradient(black,#0d0d0d,#1a1a1a,#262626,#1a1a1a,#0d0d0d,black);}
+
+
+
+
+
+
+
+  .card {
+
+
+margin-bottom: 10px;
+text-align:center;
+margin: auto;
+width: 80%;
+border-style:dashed;
+border-color:brown;
+padding-top: 10px;
+background-color:#73ab8c;
+border-width: 10px;
+color:brown;
+font-size:28px;
+height:840px;
+border-radius: 5px;
+}
+.bar {
+  width: 100%;
+  background-color:#ffd957;
+  height: 20px;
+  margin-bottom: 2px;
+  border-radius: 5px;
+
+}
+
+
+
+
+
+
+  .box {
+    text-align: left;
+      float: left;
+      width: 49%;
+      padding: 10px;
+      padding-bottom: 10px;
+        box-shadow: 8px 8px 8px 8px rgba(2, 2, 2, 0.2);
+background-color:#73ab8c;
+border-radius: 5px;color:brown;
+margin-bottom: 15px;
+border-style: dashed;
+border-color:brown;border-width: 10px;
+      }
+.boxes{
+  text-align:center;
+  margin: auto;
+  width: 80%;
+font-size:28px;
+
+}
